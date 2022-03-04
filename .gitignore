@@ -1,0 +1,9 @@
+﻿DemoSQLNoSQL/bin
+DemoSQLNoSQL/obj
+DemoSQLNoSQL/.vs
+Entities/bin
+NoSqlAccess/bin
+SqlAccess/bin
+SqlAccess/obj
+NoSqlAccess/obj
+Entities/obj
